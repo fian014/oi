@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/fian014/Hadeh/blob/master/settings/cat.jpg" alt="Kucing Peduli" width="200"/>
+<img src="https://github.com/fian014/oi/blob/master/settings/cat.jpg" alt="Kucing Peduli" width="200"/>
 
 <p align="center">
     <a href="https://fian014.github.io">
